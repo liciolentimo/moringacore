@@ -90,5 +90,15 @@
                         border: 0px;
                         width: 15%;
                         letter-spacing: 5px;
-                      }                 
+                      }  
+                      
+                      #about {
+                        background: url(../assets/backgrounds/about.jpg);
+                        padding-top: 200px;
+                        padding-bottom: 40px;
+                           
+                        }
+                        #sale {
+                        background-color: #64596b;
+                        }
                     
