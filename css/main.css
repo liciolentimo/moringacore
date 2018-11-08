@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+
+#image-logo {
+    padding-top: 30px;
+}
+#logo {
+    background: url(../assets/backgrounds/hero.jpg);
+        padding-bottom: 30px;   
+    }
+    ul {
+        text-decoration: none;
+        list-style-type: none;
+    }  
+    li {
+        float: right;
+        padding: 10px;
+        padding-top: 60px;
+        color: white;
+        text-decoration: none;
+	    display: inline;
+    }  
+    a {
+        color: white;
+            
+        }
+    #shop {
+        float: right;
+        padding: 10px;
+        padding-top: 60px;
+    }
+    p {
+        text-align: center;
+        color: white;
+        }
+        #click {
+            padding-top:250px; 
+            padding-left: 600px;
+        }
+        #p1{
+            padding: 200px;
+             padding-bottom: 5px;
+              font-size: 40px;
+        }
+ 
