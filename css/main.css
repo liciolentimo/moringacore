@@ -100,5 +100,65 @@
                         }
                         #sale {
                         background-color: #64596b;
+                        height: 70px;
                         }
-                    
+                        #tweet {
+                            padding-top: 20px;
+                        }
+                        #footer{
+                            height: 450px;
+                            width: 100%;
+                            padding-top: 50px;
+                            background-color: #000;
+                            padding-left: 10%;
+                            padding-right: 10%;
+                          }
+                          #footertop{
+                            height: 100px;
+                            text-align: center;
+                            background-color: #2E2E2E;
+                            padding-left: 10%;
+                            padding-right: 10%;
+                          }
+                          #footermid{
+                            height: 200px;
+                            padding-bottom: 15px;
+                            background-color: #2E2E2E;
+                            padding-left: 10%;
+                            padding-right: 10%;
+                          }
+                          #footermid p{
+                            color: #FFF;
+                            font-size: 10px;
+                            letter-spacing: 2px;
+                            text-shadow: 5px;
+                            font-family: Walkway_Bold;
+                          }
+                          #footermidtop h1 {
+                            color: #FFF;
+                          }
+                          #footermid2{
+                            text-align: center;
+                            padding-top: 15px;
+                          }
+                          #footermid2 img{
+                            border-radius: 50%;
+                            padding: 2px;
+                            margin: 10px;
+                          }
+                          #footer_middle_bottom h4  {
+                            color: #FFF;
+                          }
+                          #footer_bottom{
+                            height: 100px;
+                            background-color: #2E2E2E;
+                            padding-left: 10%;
+                            padding-top: 3%;
+                            padding-right: 10%;
+                          }
+                          #footer_bottom p {
+                            color: #FFF;
+                            font-size: 20px;
+                          
+                          }
+                          
