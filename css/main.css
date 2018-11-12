@@ -99,6 +99,7 @@
                         background: url(../assets/backgrounds/about.jpg);
                         padding-top: 200px;
                         padding-bottom: 40px;
+                        margin-top: 50px;
                            
                         }
                         #sale {
@@ -107,6 +108,9 @@
                         }
                         #tweet {
                             padding-top: 20px;
+                        }
+                        h4{
+                          color: white;
                         }
                         #footer{
                             height: 450px;
