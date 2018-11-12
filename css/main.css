@@ -23,6 +23,9 @@
         color: white;
             
         }
+        #click, html {
+          scroll-behavior: smooth;
+      }
     #shop {
         float: right;
         padding: 10px;
