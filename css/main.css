@@ -212,6 +212,14 @@
                           #item{
                             color: gray;
                           }
+                          #item-top{
+                            color: gray;
+                            margin-top: 10px;
+                            text-align: initial;
+                            border: 0px;
+                            width: 70px;
+                            
+                          }
                           
                           #sort {
                             margin-right: 40px;
