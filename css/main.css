@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
 #image-logo {
     padding-top: 30px;
@@ -113,7 +113,7 @@
                           color: white;
                         }
                         #footer{
-                            height: 450px;
+                            height: 430px;
                             width: 100%;
                             padding-top: 50px;
                             background-color: #000;
@@ -139,7 +139,7 @@
                             font-size: 10px;
                             letter-spacing: 2px;
                             text-shadow: 5px;
-                            font-family: Walkway_Bold;
+                            
                           }
                           #footermidtop h1 {
                             color: #FFF;
@@ -201,7 +201,7 @@
                             
                           }
                           #item{
-                            color: #000;
+                            color: gray;
                           }
                           
                           #sort {
