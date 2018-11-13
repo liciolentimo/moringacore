@@ -100,8 +100,17 @@
                         padding-top: 100px;
                         padding-bottom: 40px;
                         margin-top: 30px;
-                           
-                        }
+                        font-size: 20px;
+                      }
+                      .child{
+                        width: 500px;
+                        height: 200px;
+                        padding: 20px;
+                        border: 1px solid #F4A460;
+                        margin: 10px auto;
+                        box-sizing: content-box;
+                      }
+                        
                         #sale {
                         background-color: #64596b;
                         height: 70px;
